@@ -1,4 +1,4 @@
-# Django-Python-Blog-Application
+# Django-Python-React-Blog-Application
 
 Its a blog application made of Django python,React.
 
